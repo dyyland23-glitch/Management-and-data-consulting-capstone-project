@@ -30,9 +30,4 @@ This repository contains the strategic planning frameworks, case analyses, and d
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/dyyland23-glitch/Management-and-data-consulting-capstone-project.git](https://github.com/dyyland23-glitch/Management-and-data-consulting-capstone-project.git)
-cd Management-and-data-consulting-capstone-project
